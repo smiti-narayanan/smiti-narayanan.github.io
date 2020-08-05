@@ -31,3 +31,13 @@ h2 {
     margin: auto;
     width: 80%;
 }
+
+#package-table {
+    margin: auto;
+    width: 80%;
+}
+
+.greenft {
+    color: #1da13e;
+    font-size: 18;
+}
